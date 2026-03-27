@@ -3,7 +3,7 @@
 /**** REDIRECT RULES ****/
 
 // Base URL
-const BASE_REDIRECT = "https://hhhhh4350.github.io/goofy-assets";";
+const BASE_REDIRECT = "https://hhhhh4350.github.io/goofy-assets";
 
 // These URLs will never be redirected so
 // we don't need to check them.
