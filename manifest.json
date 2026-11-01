@@ -1,7 +1,7 @@
 {
 	"manifest_version": 3,
-	"name": "Doctorpus Assets",
-	"description": "a Deeeep.io Asset Pack!",
+	"name": "Anniversary Assets",
+	"description": "Happy 10 years Deeeep.io!",
 	"version": "1.0.43",
 	"icons": {
 		"128": "Docassetsicon.png"
@@ -11,7 +11,7 @@
 		"default_icon": {
 			"128": "Docassetsicon.png"
 		},
-		"default_title": "Click to turn Doctorpus Assets on/off"
+		"default_title": "Click to turn Anniversary Assets on/off"
 	},
 	"background": {
 		"service_worker": "background.js"
