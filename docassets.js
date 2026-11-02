@@ -12,6 +12,9 @@ const EXCLUSION_REGEX = [
 	/.+\/img\/(avatar|badges|stats|verified)/,
 	// Terrain textures
 	/.+\/assets\/packs\/\d+\/textures/,
+	// Skins (don't swap)
+	/.+\/assets\/skins\//,
+	/cdn\.deeeep\.io\/custom\/skins\//,
 ];
 // Rules for redirects
 const REDIRECTS = [
